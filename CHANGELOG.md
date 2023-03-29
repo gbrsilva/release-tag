@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [2.0.0] 2023-03-29
+
+### Added 
+
+- [**TASK-4321**](https://link.task.jira/browse/task-4321) - Just for test 4321
+
 ## [1.0.0] 2023-03-29
 
 ### Added 
